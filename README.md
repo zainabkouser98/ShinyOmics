@@ -1,4 +1,4 @@
-# ShinyOmics# ShinyOmics: Interactive Data Visualization for Single-Cell Analysis
+# ShinyOmics: Interactive Data Visualization for Single-Cell Analysis
 ShinyOmics is a Dash application designed for visualizing single-cell data with ease. Whether you're exploring distributions, correlations, or trends in your dataset, ShinyOmics provides a customizable platform to generate and export various types of plots.
 
 **Features**  
